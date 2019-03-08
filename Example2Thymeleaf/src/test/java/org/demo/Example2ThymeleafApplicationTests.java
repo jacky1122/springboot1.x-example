@@ -20,7 +20,7 @@ import org.springframework.test.web.servlet.setup.MockMvcBuilders;
 @RunWith(SpringJUnit4ClassRunner.class)
 @SpringBootTest(classes=MockServletContext.class)
 @WebAppConfiguration
-public class Example1HelloWorldApplicationTests {
+public class Example2ThymeleafApplicationTests {
 
 	private MockMvc mvc; 
 	
